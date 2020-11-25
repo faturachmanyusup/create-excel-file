@@ -1,5 +1,5 @@
 const Excel = require('./Class/Excel');
-const excel = require('./excel');
+const excel = require('./Function/excel');
 
 const headers = [
   {
